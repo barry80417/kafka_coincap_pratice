@@ -12,4 +12,4 @@
 開啟zookeeper遇過一次錯誤錯誤碼如 https://stackoverflow.com/questions/67335702/zookeeper-gives-exiting-jvm-with-error-code-2-error
 最後發現其實是我上方指令路徑打錯
 
-執行玩上面兩者，再分別執行Producer及Consumer即可
+執行完上面兩者，再分別執行Producer及Consumer即可
